@@ -10,7 +10,7 @@ The objective of this project is to create a recommendation model using unsuperv
 
 ## Algorithms:
 We plan to use models like:
-1. Simple recommender system: sorting weighted rating of all anime.
+1. Popularity based recommender system: sorting weighted rating of all anime.
 2. Collaborative filtering: give recommendations based on preference of other similar users or based on the similarity between items and the rating history of the user.
 3. Clustering techniques such as KMeans to cluster different anime based on genre, which can then be recommended to users.
 
