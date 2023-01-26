@@ -1,3 +1,4 @@
+Collaborated with a friend to build out the following recommender system.
 # Anime-Recommendation-System
 Recommend Anime to users
 
